@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="CrosshairCursorCustomDraw.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">9F-41-48-52-4B-A5-23-4B-2A-09-99-8A-8C-09-A7-DE-F8-8A-8D-09</my:String>
+  </Application.Resources>
+</Application>
