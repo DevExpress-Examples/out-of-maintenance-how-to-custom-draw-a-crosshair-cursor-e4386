@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/CrosshairCursor_CustomDraw/MainPage.xaml) (VB: [MainPage.xaml](./VB/CrosshairCursor_CustomDraw/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/CrosshairCursor_CustomDraw/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CrosshairCursor_CustomDraw/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/CrosshairCursor_CustomDraw/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CrosshairCursor_CustomDraw/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to custom draw a crosshair cursor
 
